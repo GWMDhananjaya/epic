@@ -11,7 +11,6 @@
 
 ![Image](https://github.com/user-attachments/assets/3e94a495-a97d-4022-949a-dea44153b5dc)
 
-<em>(Add a folder called <code>screenshots</code> and include images of your site)</em>
 
 <h2>🔧 Technologies Used</h2>
 <ul>
