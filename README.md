@@ -6,9 +6,11 @@
 <p>👉 <a href="https://gwmdhananjaya.github.io/epic" target="_blank">View Website</a></p>
 
 <h2>📸 Screenshots</h2>
+
 ![Image](https://github.com/user-attachments/assets/b0c88f69-9165-4526-a26b-e58052d924a1)
 
 ![Image](https://github.com/user-attachments/assets/3e94a495-a97d-4022-949a-dea44153b5dc)
+
 <em>(Add a folder called <code>screenshots</code> and include images of your site)</em>
 
 <h2>🔧 Technologies Used</h2>
